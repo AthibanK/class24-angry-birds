@@ -19,7 +19,7 @@ function setup(){
     box5 = new Box(800,520,70,70);
     log1 = new Log(800,655,300,20,PI);
     log2 = new Log(800,565,300,20,PI);
-    log3 = new Log(860,525,150,20,PI/5);
+    log3 = new Log(860,525,150,20,PI/6);
     log4 = new Log(750,525,150,20,-PI/4);
     pig1 = new Pig(800,730,60,60);
     pig2 = new Pig(800,620,60,60);
